@@ -1,0 +1,3 @@
+rootProject.name = 'tragar'
+
+include ':app'
